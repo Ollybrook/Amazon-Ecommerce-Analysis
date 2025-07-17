@@ -42,5 +42,5 @@ An interactive Excel dashboard has been created to visualize the key insights de
 * Integration with live Amazon API for real-time data analysis.
 * **Contact:**
 * Olayiwola Theophilus Agboola (Junior Data Analyst)
-* [Your GitHub Profile Link]
-* [Your LinkedIn Profile Link]
+* https://github.com/Ollybrook
+* https://www.linkedin.com/in/olayiwola-agboola-483254333/
