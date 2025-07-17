@@ -1,4 +1,5 @@
-# Amazon-Ecommerce-Analysis
+# Amazo<img width="499" height="322" alt="Dashboard" src="https://github.com/user-attachments/assets/1e2b5943-6a8a-45c0-8383-52b7074a29e8" />
+n-Ecommerce-Analysis
 This project analysis sales data from an amazon case study using Excel. It explore trends, top selling products, sales performance, and customer behavior insight using data visualization techniques.
 # Amazon E-commerce Analytics: Product & Customer Review Insights
 This project involves a comprehensive data analysis of Amazon product pages and customer review data. As a Junior Data Analyst at RetailTech Insights, this analysis aims to generate actionable insights to guide product improvement, inform marketing strategies, and enhance customer engagement for e-commerce sellers on platforms like Amazon.
