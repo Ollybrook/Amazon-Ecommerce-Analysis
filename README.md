@@ -1,4 +1,4 @@
-# Amazo<img width="499" height="322" alt="Dashboard" src="https://github.com/user-attachments/assets/1e2b5943-6a8a-45c0-8383-52b7074a29e8" />
+# Amazo<img width="499" height="322" alt="Dashboard" 
 n-Ecommerce-Analysis
 This project analysis sales data from an amazon case study using Excel. It explore trends, top selling products, sales performance, and customer behavior insight using data visualization techniques.
 # Amazon E-commerce Analytics: Product & Customer Review Insights
